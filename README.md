@@ -1,4 +1,4 @@
-# Basic-Logistic-Regression-Using-Cpp
+# Basic Logistic Regression Using C++
 
 Description:
 A simple logistic regression model implemented entirely from scratch in C++ without using any machine learning libraries. I made this project to better understand how classification-based machine learning works internally, including sigmoid activation, binary cross-entropy loss, gradient descent, probabilities, and parameter optimization.
