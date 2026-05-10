@@ -10,10 +10,10 @@ In the training loop, the model repeatedly: computes a linear combination (z = w
 
 Example:
   Input:
-    1 -> 0
-    2 -> 0
-    3 -> 1
-    4 -> 1
+    1 -> 0,
+    2 -> 0,
+    3 -> 1,
+    4 -> 1,
   Prediction input:
     2.5
   Output:
