@@ -19,4 +19,4 @@ Example:
   Output:
     pass; probability of passing: 55.978%
 
-After completing this project, I learned how logistic regression work.
+Through this project, I learned about logistic regression, and I noticed how it builds directly on linear regression by applying a sigmoid function to map linear outputs into probabilities.
